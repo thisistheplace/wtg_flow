@@ -36,6 +36,7 @@ Note that the software modules used by the aforementioned components have consid
 
 ### High Throughput Computing
 - htcondor
+    - [htcondor on MS Azure CycleCloud](https://docs.microsoft.com/en-us/azure/cyclecloud/htcondor?view=cyclecloud-8)
 
 ### Solvers
 - user's choice...
@@ -46,6 +47,7 @@ Note that the software modules used by the aforementioned components have consid
 ### Hardware
 - Local machines with Docker installed
 - MS Azure (CycleCloud platform with htcondor scheduling)
+    - [MS Azure CycleCloud python API](https://docs.microsoft.com/en-us/azure/cyclecloud/python-api?view=cyclecloud-8)
 
 ## Notes
 - Reverse proxy server to improve security and have single access point to communicate with multiple services?
