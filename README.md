@@ -42,7 +42,7 @@ Note that the software modules used by the aforementioned components have consid
 - user's choice...
 
 ### Workflow Management
-- Apache Airflow
+- [Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
 
 ### Hardware
 - Local machines with Docker installed
