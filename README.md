@@ -24,7 +24,8 @@ Note that the software modules used by the aforementioned components have consid
 
 ### Data storage
 - HDF5 databases to store persistent numerical data
-- SQLite databases to store non-numerical data
+- PostgreSQL databases to store non-numerical data
+- (SQLite databases to store non-numerical data for development purposes only)
 
 ### APIs
 - Python FastAPI
@@ -38,3 +39,13 @@ Note that the software modules used by the aforementioned components have consid
 
 ### Solvers
 - user's choice...
+
+### Workflow Management
+- Apache Airflow
+
+### Hardware
+- Local machines with Docker installed
+- MS Azure (CycleCloud platform with htcondor scheduling)
+
+## Notes
+- Reverse proxy server to improve security and have single access point to communicate with multiple services?
